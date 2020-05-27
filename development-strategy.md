@@ -131,6 +131,28 @@ __full user story description__
 
 - styling all of this
 
+## 6. about
+
+__full user story description__
+
+### Repo
+
+1. This user story was developed locally on a branch called `6-about`
+1. The new branch was pushed to the repository
+1. A pull request was made for review
+1. Changes were merged to `master`
+
+
+### HTML
+
+- copy paste the header navbar company and the footer beacause it does not change
+- adding a main page
+- adding sub header
+
+### CSS
+
+- styling the main page and the sub header
+
 ## Finishing Touches
 
 - Write final, complete README:
