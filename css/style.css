@@ -162,3 +162,10 @@ img{
   .contact form label{
     text-transform:uppercase;
   }
+
+  /* MEDIA QUERIES */
+@media(max-width:800px){
+    #showcase h1{
+      font-size:30px;
+    }
+}
