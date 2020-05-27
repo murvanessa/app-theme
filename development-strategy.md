@@ -197,6 +197,22 @@ __full user story description__
 
 - styling the main page
 
+## 9. layout
+
+__full user story description__
+
+### Repo
+
+1. This user story was developed locally on a branch called `9-layout`
+1. The new branch was pushed to the repository
+1. A pull request was made for review
+1. Changes were merged to `master`
+
+
+### CSS
+
+- adding media querie
+
 ## Finishing Touches
 
 - Write final, complete README:
