@@ -88,6 +88,49 @@ __full user story description__
 
 - styling h1 p and font
 
+## 4. Information and footer
+
+__full user story description__
+
+### Repo
+
+1. This user story was developed locally on a branch called `4-info-footer`
+1. The new branch was pushed to the repository
+1. A pull request was made for review
+1. Changes were merged to `master`
+
+
+### HTML
+
+- adding foter
+- image and some list
+
+### CSS
+
+- styling  footer and info to show up nicely
+
+## 5. Company
+
+__full user story description__
+
+### Repo
+
+1. This user story was developed locally on a branch called `5-company`
+1. The new branch was pushed to the repository
+1. A pull request was made for review
+1. Changes were merged to `master`
+
+
+### HTML
+
+- adding contact
+- about the company
+- a newsletter
+
+### CSS
+
+- styling all of this
+
 ## Finishing Touches
 
 - Write final, complete README:
