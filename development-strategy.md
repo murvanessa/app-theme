@@ -33,7 +33,6 @@ __full user story description__
 1. A pull request was made for review
 1. Changes were merged to `master`
 
-for this story we made a branch call 
 
 ### HTML
 
@@ -46,11 +45,27 @@ for this story we made a branch call
 - Text styling for the main title
 - styling of the navigation bar
 
-## 2. ...
+## 2. Showcase
 
-...
+__full user story description__
 
-...
+### Repo
+
+1. This user story was developed locally on a branch called `2-showcase`
+1. The new branch was pushed to the repository
+1. A pull request was made for review
+1. Changes were merged to `master`
+
+
+### HTML
+
+- Adding welcome
+- Adding some text 
+
+### CSS
+
+- adding image background
+- styling h1 and p
 
 ## Finishing Touches
 
