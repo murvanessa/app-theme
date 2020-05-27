@@ -22,21 +22,29 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. Header and navigation bar
 
 __full user story description__
 
 ### Repo
 
-what branch(es) did you work on?
+1. This user story was developed locally on a branch called `1-header-navbar`
+1. The new branch was pushed to the repository
+1. A pull request was made for review
+1. Changes were merged to `master`
+
+for this story we made a branch call 
 
 ### HTML
 
-what did you change in the HTML and why?
+- A header element with a title describing the web page
+- A navbar containing information such as home, about services and contact
+- layout style
 
 ### CSS
 
-what did you change in the CSS and why?
+- Text styling for the main title
+- styling of the navigation bar
 
 ## 2. ...
 
