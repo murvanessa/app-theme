@@ -173,7 +173,29 @@ __full user story description__
 
 ### CSS
 
-- styling the main page 
+- styling the main page
+
+## 8. contact
+
+__full user story description__
+
+### Repo
+
+1. This user story was developed locally on a branch called `8-contact`
+1. The new branch was pushed to the repository
+1. A pull request was made for review
+1. Changes were merged to `master`
+
+
+### HTML
+
+- copy paste the header navbar company and the footer beacause it does not change
+- changing main page to feet the contact
+- changing sub header also
+
+### CSS
+
+- styling the main page
 
 ## Finishing Touches
 
