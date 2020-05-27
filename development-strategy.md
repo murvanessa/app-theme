@@ -67,6 +67,27 @@ __full user story description__
 - adding image background
 - styling h1 and p
 
+## 3. Features
+
+__full user story description__
+
+### Repo
+
+1. This user story was developed locally on a branch called `3-features`
+1. The new branch was pushed to the repository
+1. A pull request was made for review
+1. Changes were merged to `master`
+
+
+### HTML
+
+- adding font awesome
+- Information about each font
+
+### CSS
+
+- styling h1 p and font
+
 ## Finishing Touches
 
 - Write final, complete README:
